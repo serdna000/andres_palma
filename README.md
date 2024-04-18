@@ -4,7 +4,8 @@ Bienvenidos!
 
 Esta es la clase del dia 18 de abril de 2024
 
-:smile:
+Nuestro tutor es Jorge
+[jelambrar96](https://github.com/jelambrar96)
 
 <!--
 git add README.md  // añadir cambios
